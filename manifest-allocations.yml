@@ -9,4 +9,4 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: http://allocations-pal-chakradhar-vangara.cfapps.io
     JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
   services:
-  - tracker_allocations_dev
+  - tracker-allocations-database
